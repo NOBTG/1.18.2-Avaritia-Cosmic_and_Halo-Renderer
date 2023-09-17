@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "avaritia:item/tools/bow/pull_2",
+    "mask": "avaritia:item/tools/bow/pull_2_mask"
+  },
+  "loader": "avaritia:cosmic",
+  "cosmic": {
+    "mask": "#mask"
+  }
+}
